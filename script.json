@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Ignacio Martinez, designer in Chicago, IL\n![esther](https://raw.githubusercontent.com/nachista/EstherBot/master/img/profile.png)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Great! Are you here for personal or business? %[Tell her](postback:https://twitter.com/)",
+    "HELLO": "Great! Are you here for personal or business? %[Personal](postback:personal) %[Business](postback:business),"
     "I LOVE YOU": "I...I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, IgnacioBOT is back."
